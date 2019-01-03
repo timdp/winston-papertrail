@@ -1,5 +1,5 @@
 {
-  "name": "winston-papertrail",
+  "name": "@timdp/winston-papertrail",
   "description": "A Papertrail transport for winston",
   "version": "1.0.5",
   "author": "Ken Perkins <ken.perkins@rackspace.com>",
